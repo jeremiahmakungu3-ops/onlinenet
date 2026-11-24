@@ -1,0 +1,8 @@
+{
+  "name": "XCLOUD.NET",
+  "description": "Multi-tenant WiFi hotspot billing, MikroTik & Omada router orchestration, FreeRADIUS accounting, and DaliPay mobile money platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
